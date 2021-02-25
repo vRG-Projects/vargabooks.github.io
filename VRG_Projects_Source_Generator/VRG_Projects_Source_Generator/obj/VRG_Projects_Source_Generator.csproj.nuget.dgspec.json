@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vRG-Projects\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator.csproj": {}
+    "D:\\GitHub Repositories\\vRG-Projects [GitHub]\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator.csproj": {}
   },
   "projects": {
-    "D:\\vRG-Projects\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator.csproj": {
+    "D:\\GitHub Repositories\\vRG-Projects [GitHub]\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vRG-Projects\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator.csproj",
+        "projectUniqueName": "D:\\GitHub Repositories\\vRG-Projects [GitHub]\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator.csproj",
         "projectName": "VRG_Projects_Source_Generator",
-        "projectPath": "D:\\vRG-Projects\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator.csproj",
+        "projectPath": "D:\\GitHub Repositories\\vRG-Projects [GitHub]\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator.csproj",
         "packagesPath": "C:\\Users\\VDA\\.nuget\\packages\\",
-        "outputPath": "D:\\vRG-Projects\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator\\obj\\",
+        "outputPath": "D:\\GitHub Repositories\\vRG-Projects [GitHub]\\VRG_Projects_Source_Generator\\VRG_Projects_Source_Generator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VDA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.112\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
